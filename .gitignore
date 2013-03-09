@@ -1,0 +1,13 @@
+**/bin
+**/obj
+*.xcindexdb
+
+*.xcindexdb-wal
+
+*.xcuserstate
+
+*.plist
+
+*.xcindexdb-wal
+
+*.xcindexdb-wal
