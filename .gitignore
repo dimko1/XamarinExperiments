@@ -1,5 +1,5 @@
-**/bin
-**/obj
+bin/
+obj/
 *.xcindexdb
 
 *.xcindexdb-wal
@@ -11,3 +11,7 @@
 *.xcindexdb-wal
 
 *.xcindexdb-wal
+
+*.mdb
+
+*.exe
