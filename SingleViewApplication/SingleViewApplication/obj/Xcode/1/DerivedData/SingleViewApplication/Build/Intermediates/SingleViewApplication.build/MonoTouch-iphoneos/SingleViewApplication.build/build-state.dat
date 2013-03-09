@@ -1,0 +1,241 @@
+TSingleViewApplication
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist
+cCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c000000005102E2A90000000000000110
+t1359143593
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000511240F400000000000001A7
+t1360150772
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000511240F400000000000001E5
+t1360150772
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000511240F50000000000322700
+t1360150773
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000511240F5000000000062AD10
+t1360150773
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000511240F500000000001AABB0
+t1360150773
+s1747888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000511240F700000000011BCDF0
+t1360150775
+s18599408
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m
+c00000000513B658A0000000000000144
+t1362847114
+s324
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplication
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplication.LinkFileList
+c00000000513B69800000000000000282
+t1362848128
+s642
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplication
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplication.LinkFileList
+c00000000513B69800000000000000284
+t1362848128
+s644
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication.xcent
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app.dSYM
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/SingleViewApplication
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/SingleViewApplicationViewController.nib
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m
+c00000000513B69800000000000000221
+t1362848128
+s545
+
+N/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.xib
+c00000000513B68C30000000000002CD4
+t1362847939
+s11476
+
+N/Users/dima/Library/MobileDevice/Provisioning Profiles/F7F70813-E908-4AB5-9F33-60004A6C7CAC.mobileprovision
+c00000000511A5E960000000000001D57
+t1360682646
+s7511
+
+CBuild AST from /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m
+r0
+
+CBuild AST from /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies81966200a1ebb641^8a566e00a1ebb641^-490"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture armv7warning: no rule to process file '$(PROJECT_DIR)/SingleViewApplicationViewController.h' of type sourcecode.c.h for architecture armv7warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture armv7swarning: no rule to process file '$(PROJECT_DIR)/SingleViewApplicationViewController.h' of type sourcecode.c.h for architecture armv7s4(21%IDEActivityLogMessage2@109"Warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture armv7-384540928#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@133"Warning: no rule to process file '$(PROJECT_DIR)/SingleViewApplicationViewController.h' of type sourcecode.c.h for architecture armv7-384540928#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@110"Warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture armv7s-384540928#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@134"Warning: no rule to process file '$(PROJECT_DIR)/SingleViewApplicationViewController.h' of type sourcecode.c.h for architecture armv7s-384540928#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"2E6E1549-4D72-4722-8CFF-A5AE263D8813-
+
+CCodeSign /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app
+r0
+
+CCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384540928.444439
+e384540928.852891
+r1
+xCompileC
+xDerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o
+x/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m7afd7100a1ebb641^4f58da00a1ebb641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m0000000000000000^5245"CompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-generated-files.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-own-target-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-all-target-headers.hmap" -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-project-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources/armv7" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources" "-F/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos" -MMD -MT dependencies -MF "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.d" --serialize-diagnostics "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.dia" -c "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m" -o "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/AppDelegate-68F7B48EF796CDBA.o"36"E3A406F0-626B-4116-B5B2-CFC4B82B33E4-
+
+CCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384540928.444430
+e384540928.854032
+r0
+xCompileC
+xDerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o
+x/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m:14:6: error: use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?
+o    [_btnTestLabel release];
+o     ^~~~~~~~~~~~~
+o     _lblTestLabel
+o/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h:17:49: note: '_lblTestLabel' declared here
+o@property (retain, nonatomic) IBOutlet UILabel *lblTestLabel;
+o                                                ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Compile /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.md8ef7100a1ebb641^8c9fda00a1ebb641^-662"/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m:14:6: error: use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?    [_btnTestLabel release];     ^~~~~~~~~~~~~     _lblTestLabel/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h:17:49: note: '_lblTestLabel' declared here@property (retain, nonatomic) IBOutlet UILabel *lblTestLabel;                                                ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@75"Use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?-384540928#18446744073709551615#0#1(2@29"'_lblTestLabel' declared here-384540928#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h0000000000000000^16#48#16#48#570#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^13#5#13#5#419#0#14"Semantic Issue1(3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^13#5#13#18#419#13#-0#0#0#-19%DVTDocumentLocation4@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^5389"CompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o SingleViewApplicationViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-generated-files.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-own-target-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-all-target-headers.hmap" -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-project-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources/armv7" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources" "-F/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos" -MMD -MT dependencies -MF "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.d" --serialize-diagnostics "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.dia" -c "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m" -o "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o"36"6D7141FD-4268-4F70-A88E-5EDD89047DD7-
+
+CCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384540928.444446
+e384540928.852919
+r1
+xCompileC
+xDerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o
+x/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m57ee7100a1ebb641^245eda00a1ebb641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m0000000000000000^5252"CompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-generated-files.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-own-target-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-all-target-headers.hmap" -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-project-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources/armv7s" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources" "-F/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos" -MMD -MT dependencies -MF "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.d" --serialize-diagnostics "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.dia" -c "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/AppDelegate.m" -o "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/AppDelegate-68F7B48EF796CDBA.o"36"2EBE4437-58EA-469A-B09F-A114C7B113C2-
+
+CCompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384540928.444452
+e384540928.854143
+r0
+xCompileC
+xDerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o
+x/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m:14:6: error: use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?
+o    [_btnTestLabel release];
+o     ^~~~~~~~~~~~~
+o     _lblTestLabel
+o/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h:17:49: note: '_lblTestLabel' declared here
+o@property (retain, nonatomic) IBOutlet UILabel *lblTestLabel;
+o                                                ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Compile /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.me5f07100a1ebb641^1b9eda00a1ebb641^-662"/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m:14:6: error: use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?    [_btnTestLabel release];     ^~~~~~~~~~~~~     _lblTestLabel/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h:17:49: note: '_lblTestLabel' declared here@property (retain, nonatomic) IBOutlet UILabel *lblTestLabel;                                                ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@75"Use of undeclared identifier '_btnTestLabel'; did you mean '_lblTestLabel'?-384540928#18446744073709551615#0#1(2@29"'_lblTestLabel' declared here-384540928#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.h0000000000000000^16#48#16#48#570#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^13#5#13#5#419#0#14"Semantic Issue1(3@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^13#5#13#18#419#13#-0#0#0#-19%DVTDocumentLocation4@181"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m0000000000000000^5396"CompileC DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o SingleViewApplicationViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-generated-files.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-own-target-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-all-target-headers.hmap" -iquote "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication-project-headers.hmap" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources/armv7s" "-I/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/DerivedSources" "-F/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos" -MMD -MT dependencies -MF "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.d" --serialize-diagnostics "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.dia" -c "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.m" -o "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplicationViewController-5DCDE3E2C5E070E4.o"36"8F90F9F0-7984-4A46-A15E-CD2BEAA84583-
+
+CCompileXIB /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/SingleViewApplicationViewController.xib
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist
+s384540928.433939
+e384540928.436341
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist2d256f00a1ebb641^0ef96f00a1ebb641^---0#0#0#-19%DVTDocumentLocation2@257"file://localhost/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist000000000080d041^1030"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/ResourceRules.plist    cd "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist "/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app"36"C4143338-EB5B-4A83-A649-B6CBA3EB42B1-
+
+CCreateUniversalBinary /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/SingleViewApplication normal "armv7 armv7s"
+r0
+
+CGenerateDSYMFile /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app.dSYM /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/SingleViewApplication
+r0
+
+CLd /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7/SingleViewApplication normal armv7
+r0
+
+CLd /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/Objects-normal/armv7s/SingleViewApplication normal armv7s
+r0
+
+CProcessProductPackaging "/Users/dima/Library/MobileDevice/Provisioning Profiles/F7F70813-E908-4AB5-9F33-60004A6C7CAC.mobileprovision" /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Intermediates/SingleViewApplication.build/MonoTouch-iphoneos/SingleViewApplication.build/SingleViewApplication.xcent
+r0
+
+CTouch /Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/obj/Xcode/1/DerivedData/SingleViewApplication/Build/Products/MonoTouch-iphoneos/SingleViewApplication.app
+r0
+

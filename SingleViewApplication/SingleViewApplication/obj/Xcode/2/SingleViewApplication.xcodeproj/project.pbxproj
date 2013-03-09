@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1B94B3F70000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F25C0950000000000000000 /* UIKit.framework */; };
+		3D2A572A0000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB63C8000000000000000000 /* MapKit.framework */; };
+		125DBFC20000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15EECC600000000000000000 /* Foundation.framework */; };
+		5C8A20B00000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 959AEA900000000000000000 /* CoreGraphics.framework */; };
+		3432948A0000000000000000 /* SingleViewApplicationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 37C3A1280000000000000000 /* SingleViewApplicationViewController.xib */; };
+		CC426A400000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 105533420000000000000000 /* AppDelegate.h */; };
+		1DE1DAE00000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 56F2A4C00000000000000000 /* AppDelegate.m */; };
+		1AB3A9200000000000000000 /* SingleViewApplicationViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 53C473000000000000000000 /* SingleViewApplicationViewController.h */; };
+		1FAFD1270000000000000000 /* SingleViewApplicationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2340DDC50000000000000000 /* SingleViewApplicationViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F4D609700000000000000000 /* SingleViewApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "SingleViewApplication.app"; path = "SingleViewApplication.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F25C0950000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		BB63C8000000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		15EECC600000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		959AEA900000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		37C3A1280000000000000000 /* SingleViewApplicationViewController.xib */ = {isa = PBXFileReference; name = "SingleViewApplicationViewController.xib"; path = "SingleViewApplicationViewController.xib"; sourceTree = "<group>"; };
+		105533420000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		56F2A4C00000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		53C473000000000000000000 /* SingleViewApplicationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SingleViewApplicationViewController.h"; path = "SingleViewApplicationViewController.h"; sourceTree = "<group>"; };
+		2340DDC50000000000000000 /* SingleViewApplicationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SingleViewApplicationViewController.m"; path = "SingleViewApplicationViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DD12EF200000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B94B3F70000000000000000 /* UIKit.framework in Frameworks */,
+				3D2A572A0000000000000000 /* MapKit.framework in Frameworks */,
+				125DBFC20000000000000000 /* Foundation.framework in Frameworks */,
+				5C8A20B00000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2DEAA0800000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				188454CC0000000000000000 /* SingleViewApplication */,
+				3C2ED2F80000000000000000 /* Frameworks */,
+				23377AA60000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		23377AA60000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F4D609700000000000000000 /* SingleViewApplication.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		3C2ED2F80000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1F25C0950000000000000000 /* UIKit.framework */,
+				BB63C8000000000000000000 /* MapKit.framework */,
+				15EECC600000000000000000 /* Foundation.framework */,
+				959AEA900000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		188454CC0000000000000000 /* SingleViewApplication */ = {
+			isa = PBXGroup;
+			children = (
+				105533420000000000000000 /* AppDelegate.h */,
+				53C473000000000000000000 /* SingleViewApplicationViewController.h */,
+				37C3A1280000000000000000 /* SingleViewApplicationViewController.xib */,
+				3C0158B00000000000000000 /* Supporting Files */,
+			);
+			name = "SingleViewApplication";
+			sourceTree = "<group>";
+		};
+		3C0158B00000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				56F2A4C00000000000000000 /* AppDelegate.m */,
+				2340DDC50000000000000000 /* SingleViewApplicationViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		401916900000000000000000 /* SingleViewApplication */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49A3ABD00000000000000000 /* Build configuration list for PBXNativeTarget "SingleViewApplication" */;
+			buildPhases = (
+				386AE33E0000000000000000 /* Sources */,
+				DD12EF200000000000000000 /* Frameworks */,
+				215582C90000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SingleViewApplication";
+			productName = "SingleViewApplication";
+			productReference = F4D609700000000000000000 /* SingleViewApplication.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		394E6B8F0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 365608450000000000000000 /* Build configuration list for PBXProject "SingleViewApplication" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2DEAA0800000000000000000;
+			productRefGroup = 23377AA60000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				401916900000000000000000 /* SingleViewApplication */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		215582C90000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3432948A0000000000000000 /* SingleViewApplicationViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		386AE33E0000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC426A400000000000000000 /* AppDelegate.h in Sources */,
+				1DE1DAE00000000000000000 /* AppDelegate.m in Sources */,
+				1AB3A9200000000000000000 /* SingleViewApplicationViewController.h in Sources */,
+				1FAFD1270000000000000000 /* SingleViewApplicationViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		37D239EA0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		2BA2E26B0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "SingleViewApplication";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		365608450000000000000000 /* Build configuration list for PBXProject "SingleViewApplication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37D239EA0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		49A3ABD00000000000000000 /* Build configuration list for PBXNativeTarget "SingleViewApplication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BA2E26B0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 394E6B8F0000000000000000 /* Project object */;
+}
