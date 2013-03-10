@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingleViewApplication/SingleViewApplicationViewController.cs">
+    <Files>
+      <File FileName="SingleViewApplication/SingleViewApplicationViewController.cs" Line="49" Column="1" />
+      <File FileName="SingleViewApplication/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SingleViewApplication" expanded="True">
+            <Node name="SingleViewApplicationViewController.cs" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/SingleViewApplicationViewController.cs" line="47" />
+      <Breakpoint file="/Users/dima/Desktop/!work/github/Xamarin/Experiments/XamarinExperiments/SingleViewApplication/SingleViewApplication/SingleViewApplicationViewController.cs" line="48" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

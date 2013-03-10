@@ -8,7 +8,7 @@ namespace SingleViewApplication
 {
 	public partial class SingleViewApplicationViewController : UIViewController
 	{
-		private int clickCounter = 0;
+		private int clickCounter = 1;
 
 		public SingleViewApplicationViewController () : base ("SingleViewApplicationViewController", null)
 		{

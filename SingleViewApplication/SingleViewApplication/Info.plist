@@ -8,5 +8,19 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleDisplayName</key>
+	<string>SinglePageApplication</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mdev.SinglePageApplication</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0.1</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>MinimumOSVersion</key>
+	<string>6.1</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>SingleViewApplicationViewController</string>
 </dict>
 </plist>
